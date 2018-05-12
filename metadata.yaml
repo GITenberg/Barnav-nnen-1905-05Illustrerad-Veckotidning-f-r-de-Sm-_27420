@@ -1,0 +1,36 @@
+_repo: Barnav-nnen-1905-05Illustrerad-Veckotidning-f-r-de-Sm-_27420
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Gauffin, J. B.
+    gutenberg_agent_id: '32681'
+    url: http://www.gutenberg.org/2009/agents/32681
+description: ''
+gutenberg_bookshelf: Barnavännen
+gutenberg_issued: '2008-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27420'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s periodicals, Swedish'
+- !lcc 'BX'
+- !lcsh 'Christian education -- Periodicals'
+- !lcsh 'Bible stories, Swedish -- Periodicals'
+- !lcsh 'Sunday school literature -- Periodicals'
+- !lcsh 'Svenska missionsförbundet -- Periodicals'
+title: 'Barnavännen, 1905-05
+
+  Illustrerad Veckotidning för de Små'
+url: http://www.gutenberg.org/ebooks/27420
